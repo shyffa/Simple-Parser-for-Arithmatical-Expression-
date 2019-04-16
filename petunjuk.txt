@@ -1,0 +1,5 @@
+yang valid/ dapat dibaca oleh program kami : 
+NUM = 0 sampai 9
+OPR = + , X, :, -
+E
+,
